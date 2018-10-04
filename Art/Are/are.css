@@ -46,6 +46,15 @@ body{
   background: #A6BECF;
   border-radius: 50%;
   z-index: 1;
+
+}
+.ear-right:hover{
+  animation-name: say;
+  animation-duration: 2s;
+}
+.ear-left:hover{
+animation-name: say1;
+  animation-duration: 2s;
 }
 .inner-ear{
   position: absolute;
@@ -85,6 +94,11 @@ body{
   border-radius: 50%;
   background: #27354A;
 }
+.pupil:hover{
+  animation-name: blink;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
 .nose{
   position: absolute;
   background: #BE845F;
@@ -114,4 +128,25 @@ clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
  background:  #A6BECF;
  -webkit-clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
 clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
+
+@keyframes blink{
+  0%{
+    background-color: white;
+  }
+  100%{
+    background-color: #27354A;
+  }
+}
+
+@keyframes say{
+ 100%{
+  transform: translateX(50px);
+ }
+}
+
+@keyframes say1{
+ 100%{
+  transform: translateX(-50px);
+ }
 }
