@@ -69,6 +69,8 @@ let cards = [
     ["Responsive Bars", "./Art/Rahul/index.html", "./Art/Rahul/index.png", "Rahul", "https://github.com/rik-96"],
     ["Boat", "./Art/Boat/index.html", "./Art/Boat/Boat.png", "Titi Arimba", "https://github.com/titiarimba"],
     ["Koala", "./Art/Chrissy/koala.html", "./Art/Chrissy/koalaedit.png", "Chrissy", "https://github.com/charlecoda88"]
+ ["RobotFriend", "./Art/Chrissy/RobotFriend.html", "./Art/Chrissy/robotfriend.png", "Chrissy", "https://github.com/charlecoda88"]
+
 ];
 
 
