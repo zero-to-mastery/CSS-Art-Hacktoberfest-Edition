@@ -1,8 +1,8 @@
-# CSS ART
+# CSS ART - Hacktoberfest Edition
 
 **UPDATE**
 
-**This CSS Art repo has been split into two editions. The Hacktoberfest Edition will be locked at the end of October to preserve its state at the end of Hacktoberfest. If you would like to continue its development, you can do so in the General Edition [HERE](https://github.com/zero-to-mastery/CSS-Art-Hacktoberfest-Edition/edit/master/README.md)**
+**This CSS Art repo has been split into two editions. The Hacktoberfest Edition was locked at the end of October to preserve its state at the end of Hacktoberfest. If you would like to continue its development, you can do so in the General Edition [HERE](https://github.com/zero-to-mastery/CSS-Art)**
 
 Welcome to CSS Art, a fun, beginner-friendly challenge for Hacktoberfest!
 
