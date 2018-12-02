@@ -104,8 +104,8 @@ let cards = [
     ["Captain's Shield", "./Art/napvlm/shield.html", "./Art/napvlm/shield.png", "Ruslan Anisimov", "https://github.com/napvlm"],
     ["Happy Emoji", "./Art/uhayon/emoji.html", "./Art/uhayon/emoji.png", "Uri", "https://github.com/uhayon"],
     ["Electrode", "./Art/Sherin/electrode.html", "./Art/Sherin/electrode.png", "Sherin Binu", "https://github.com/SherOnDale"],
-    ["Mounion vaakuna", "./Art/MAhoMaha12112017/MAhoMaha12112017.html", "./Art/MAhoMaha12112017/mouniovaakuna_pieni_skaalattu.png", "MAho", "https://github.com/MAhoMaha12112017"],
-    ["bouncing ball", "./Art/jaeja/index.html", "./jaeja/ball.png", "jae", "https://github.com/jaeja"],
+    ["Mounion vaakuna", "./Art/MAhoMaha12112017/MAhoMaha12112017.html", "./Art/MAhoMaha12112017/mouniovaakuna_pieni_skaalattu.PNG", "MAho", "https://github.com/MAhoMaha12112017"],
+    ["bouncing ball", "./Art/jaeja/index.html", "./Art/jaeja/ball.PNG", "jae", "https://github.com/jaeja"],
     ["Egg", "./Art/tomikonio/egg.html", "./Art/tomikonio/egg.png", "tomikonio", "https://github.com/tomikonio"],
 ];
 
